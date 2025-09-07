@@ -1,5 +1,4 @@
-import React from 'react';
-import UserInfo from './UserInfo.jsx';
+import UserInfo from "./UserInfo";
 
 function ProfilePage() {
   return <UserInfo />;
